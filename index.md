@@ -2,17 +2,22 @@
 layout: default
 ---
 
-Test!!! Hey Classmates! The site is very basic right now. I am open to suggestions on how we should configure this site.
+Hey Classmates! The site is very basic right now. I am open to suggestions on how we should configure this site.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   Someone's project
+    slideshow link
+    video link
+*   Sometwo's project
+    slideshow link
+    video link
+*   Somethree's project
+    slideshow link
+    video link
+*   placeholder
 
 ## Header 2
 
