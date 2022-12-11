@@ -12,6 +12,6 @@ Hey Classmates! The site is very basic right now. I am open to suggestions on ho
 *   [Osbaldo Bravo's project](./ob-project.html)
 *   [Pooria Ghaffari's project](./pg-project.html)
 *   [James Caldwell's project](./jc-project.html)
-*   placeholder
+*   [Giselle Aguirre Enciso's project](./gac-project.html)
 
 * * *
