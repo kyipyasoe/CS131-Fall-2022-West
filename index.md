@@ -19,5 +19,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Aryeh Freud's project](./af-project.html)
 *   [Henrik Fetiza's project](./hf-project.html)
 *   [Miriam Pastrana's project](./mp-project.html)
+*   [Kuaven Moody's project](./km-project.html)
 
 * * *
