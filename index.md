@@ -14,5 +14,6 @@ Hey Classmates! The site is very basic right now. I am open to suggestions on ho
 *   [James Caldwell's project](./jc-project.html)
 *   [Giselle Aguirre Enciso's project](./gac-project.html)
 *   [Yesenia Vargas Galindo's project](./yvg-project.html)
+*   [Aryeh Freud's project](./af-project.html)
 
 * * *
