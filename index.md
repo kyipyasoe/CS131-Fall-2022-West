@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hey Classmates! The site is very basic right now. I am open to suggestions on how we should configure this site.
+Hi! Welcome to the project website for CS 131 Fall Semester Section #17468!
+
+Look below for all the awesome projects our students created for this course.
 
 * * *
 
