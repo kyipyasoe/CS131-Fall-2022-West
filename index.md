@@ -9,12 +9,8 @@ Hey Classmates! The site is very basic right now. I am open to suggestions on ho
 # Projects
 
 *   [Ashley Montanez's project](./am-project.html)
-*   Sometwo's project
-    slideshow link
-    video link
-*   Somethree's project
-    slideshow link
-    video link
+*   [Osbaldo Bravo's project](./ob-project.html)
+*   [Pooria Ghaffari's project](./pg-project.html)
 *   placeholder
 
 * * *
