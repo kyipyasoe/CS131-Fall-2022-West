@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! Welcome to the project website for CS 131 Fall Semester Section #17468!
+Hi! Welcome to the project website for CS 131 Fall Semester Section #17468 at WLAC!
 
 Look below for all the awesome projects our students created for this course.
 
