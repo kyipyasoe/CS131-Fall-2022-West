@@ -20,5 +20,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Henrik Fetiza's project](./hf-project.html)
 *   [Miriam Pastrana's project](./mp-project.html)
 *   [Kuaven Moody's project](./km-project.html)
+*   [Mike Petrus's project](./mp2-project.html)
 
 * * *
