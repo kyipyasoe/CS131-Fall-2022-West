@@ -8,7 +8,7 @@ Hey Classmates! The site is very basic right now. I am open to suggestions on ho
 
 # Projects
 
-*   Ashley Montanez's project
+*   Ashley Montanez's project:
     [Matrices video](https://youtu.be/x7mlFGE7p3o)
 *   Sometwo's project
     slideshow link
