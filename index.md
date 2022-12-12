@@ -22,5 +22,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Kuaven Moody's project](./km-project.html)
 *   [Mike Petrus' project](./mp2-project.html)
 *   [Elijah Charles's project](./ec-project.html)
+*   [Slava Shaerman's project](./ss-project.html)
 
 * * *
