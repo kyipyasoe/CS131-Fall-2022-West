@@ -24,5 +24,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Elijah Charles's project](./ec-project.html)
 *   [Slava Shaerman's project](./ss-project.html)
 *   [Kyle Scott's project](./ks-project.html)
+*   [Jeff Brown's project](./jb-project.html)
 
 * * *
